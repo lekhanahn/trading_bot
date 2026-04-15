@@ -1,0 +1,6 @@
+2026-04-15 09:35:40,329 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-15 09:35:42,468 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2026-04-15 10:00:50,384 - INFO - [MOCK] Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-15 10:00:50,384 - INFO - [MOCK RESPONSE]: {'orderId': 63247, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': 'Market Price', 'time': '2026-04-15 10:00:50.384794'}
+2026-04-15 10:04:11,367 - INFO - [MOCK] Placing order: BTCUSDT SELL LIMIT 0.001 60000
+2026-04-15 10:04:11,367 - INFO - [MOCK RESPONSE]: {'orderId': 36860, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': '0', 'avgPrice': '60000', 'time': '2026-04-15 10:04:11.367700'}
